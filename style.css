@@ -1,0 +1,104 @@
+.header{
+	background-color: #90867E;
+}
+.cont_2{
+	background-color: #ffffff;
+	width: 900px;
+	height: 620px;
+
+}
+.cont_1{
+	height: 120px;
+	width: 900px;
+	background-color: #ffffff;
+}
+.cont_4{
+	height: 250px;
+	width: 900px;
+	background-color: #ffffff;
+}
+.cont_5{
+	height: 400px;
+	width: 900px;
+	background-color: #ffffff;
+}
+.cont_3{
+	height: 500px;
+	width: 900px;
+	background-color: #ffffff;	
+}
+.footer{
+	background-color: #323232;
+}
+@font-face{
+	font-family: font1;
+	src: url(Comic_CAT.otf);
+}
+#font-face{
+	font-family: font1;
+	src: url(Comic_CAT.otf);
+}
+h1{
+	font-family: font1;
+}
+p{
+	font-family: font1;
+}
+h2{
+	font-family: font1;
+}
+h3{
+	font-family: font1;
+}
+h4{
+	font-family: font1;
+}
+h5{
+	font-family: font1;
+}
+.image {
+	position	: relative;
+	width		: 100%;
+}
+.d_image{
+	width: 360px;
+}
+.round{
+	border-radius: 35px;
+}
+.round2{
+	border-radius: 25px;
+}
+.logo{
+	max-width: 100px;
+	max-height: 100px;
+}
+.cont_data{
+	background-color: #ffffff;
+	height: 910px;
+	width: 900px;
+}
+.cont_data_d{
+	background-color: #ffffff;
+	height: 400px;
+	width: 258px;
+}
+.shadow_f{
+	box-shadow: 0px 0px 10px black;
+}
+#bone {
+    width: 400px;
+    height: 400px;
+    position: relative;
+    background: yellow;
+}
+#bone_anim {
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    background: red;
+}
+.rotated {
+  transform: rotate(45deg); /* Equal to rotateZ(45deg) */
+  background-color: pink;
+}
